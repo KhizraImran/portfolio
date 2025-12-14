@@ -10,7 +10,7 @@ export default function HeroSection() {
       </h1>
 
       <p className="text-lg md:text-xl text-gray-600 mb-6 text-center max-w-2xl leading-8">
-        A creative <strong>10th grade student</strong> with a passion for in building responsive, user-friendly websites using modern technologies like <strong>TypeScript, Next.js</strong>, and <strong>Tailwind CSS</strong>.
+        A creative <strong>10th grade student</strong> with a passion for in building responsive, user-friendly websites using modern technologies like <strong>TypeScript, Next.js,Bootstrap</strong>, and <strong>Tailwind CSS</strong>.
       </p>
 
       <div className="space-x-4">
