@@ -34,7 +34,7 @@ export default function ProjectsSection() {
           </a>
             
           {/* Project Showcase */}
-          <a href="https://vercel.com/khizra-imrans-projects" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/KhizraImran?tab=repositories" target="_blank" rel="noopener noreferrer">
             <button className="bg-blue-600 text-white py-3 px-6 rounded-lg text-lg shadow-lg hover:bg-blue-500 transition duration-300 w-full">
               See All My Projects
             </button>
