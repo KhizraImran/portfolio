@@ -25,7 +25,14 @@ export default function ProjectsSection() {
               Access Foam
             </button>
           </a>
-  
+
+             {/* Project 3*/}
+          <a href="https://hakathon-figma-design-khizra-khan.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <button className="bg-blue-600 text-white py-3 px-6 rounded-lg text-lg shadow-lg hover:bg-blue-500 transition duration-300 w-full">
+              Figma to Web UI (Hackathon Project)
+            </button>
+          </a>
+            
           {/* Project Showcase */}
           <a href="https://vercel.com/khizra-imrans-projects" target="_blank" rel="noopener noreferrer">
             <button className="bg-blue-600 text-white py-3 px-6 rounded-lg text-lg shadow-lg hover:bg-blue-500 transition duration-300 w-full">
