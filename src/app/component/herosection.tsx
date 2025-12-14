@@ -14,7 +14,7 @@ export default function HeroSection() {
       </p>
 
       <div className="space-x-4">
-        <a href="/Khizra-CV.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/Khizra Imran.pdf" target="_blank" rel="noopener noreferrer">
           <button className="bg-blue-600 text-white py-3 px-6 rounded-lg text-lg shadow-lg hover:bg-blue-500 transition duration-300">
             View My Resume
           </button>
